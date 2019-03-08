@@ -6,12 +6,17 @@ Run "-WeatherSynth_v5.1" Logic project. <br>
 
 <br>
 Max Settings:
-Out: Audio Interface -> Speakers
-In: Soundflower (Or similar audio routing software)
 <br>
+Out: Audio Interface -> Speakers
+<br>
+In: Soundflower (Or similar audio routing software)
+<br><br>
 Logic Settings:
+<br>
 Out: Soundflower (Or similar audio routing software)
+<br>
 In: N/A (Doesn’t affect the patch)
+<br>
 
 
 [![](http://img.youtube.com/vi/1weh5zhE81c/0.jpg)](http://www.youtube.com/watch?v=1weh5zhE81c "")
